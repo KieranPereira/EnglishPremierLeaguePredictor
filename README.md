@@ -12,3 +12,5 @@ Finally, the results were shown for the future matches using the best model and 
 [2] Premier League Team Statistics | WhoScored.com [Internet]. Whoscored.com. 2023 [cited 2023 Jan 3]. Available from: https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/1849/Stages/3115/TeamStatistics/England-Premier-League-2009-2010
 
 [3] Simulating a Football Season [Internet]. IB Maths Resources from Intermathematics. IB Maths Resources from Intermathematics; 2019 [cited 2023 Jan 3]. Available from: https://ibmathsresources.com/simulating-a-football-season/
+
+The Project was created as part of a group coursework for a machine learning and neural computation module
